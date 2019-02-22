@@ -53,45 +53,45 @@
       "github": "wickdninja",
       "linkedin": "nate-ross-1593a477",
       "web": "https://wickd.ninja",
-      "work": "Senior Developer @AlliedPayment"
+      "work": "Senior Developer <red>@AlliedPayment</>"
     },
     "data": [
-      "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
+      "          <orange>{{name}}</><white> / </><green>{{handle}}</>",
       "",
       {
-        "label": "<blue>Work</>",
+        "label": "<white>Work</>",
         "text": "{{work}}"
       },
       "",
       {
-        "label": "Twitter",
-        "text": "https://twitter.com/<cyan>{{twitter}}</>",
+        "label": "<yellow>Twitter</>",
+        "text": "https://twitter.com/<green>{{twitter}}</>",
         "when": "{{twitter}}"
       },
       {
-        "label": "npm",
-        "text": "https://www.npmjs.com/<red>~{{npm}}</>",
+        "label": "<yellow>npm</>",
+        "text": "https://www.npmjs.com/<green>~{{npm}}</>",
         "when": "{{npm}}"
       },
       {
-        "label": "GitHub",
+        "label": "<yellow>GitHub</>",
         "text": "https://github.com/<green>{{github}}</>",
         "when": "{{github}}"
       },
       {
-        "label": "LinkedIn",
-        "text": "https://www.linkedin.com/in/<blue>{{linkedin}}</>",
+        "label": "<yellow>LinkedIn</>",
+        "text": "https://www.linkedin.com/in/<green>{{linkedin}}</>",
         "when": "{{linkedin}}"
       },
       {
-        "label": "Web",
+        "label": "<yellow>Web</>",
         "text": "<cyan>{{web}}</>",
         "when": "{{web}}"
       },
       "",
       {
-        "label": "Card",
-        "text": "<red>npx</> {{_packageName}}"
+        "label": "<white>Card</>",
+        "text": "<white>npx</> <green>{{_packageName}}</>"
       }
     ]
   }
