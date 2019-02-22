@@ -1,6 +1,6 @@
 {
   "name": "wickdninja",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal npm card for Nate Ross (@wickdninja)",
   "main": "dist/card.js",
   "unpkg": "index.html",
