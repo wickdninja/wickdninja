@@ -1,6 +1,6 @@
 {
   "name": "wickdninja",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Personal npm card for Nate Ross (@wickdninja)",
   "main": "dist/card.js",
   "unpkg": "index.html",
@@ -53,7 +53,7 @@
       "github": "wickdninja",
       "linkedin": "nate-ross-1593a477",
       "web": "https://wickd.ninja",
-      "work": "Senior Developer <red>@AlliedPayment</>"
+      "work": "Senior Developer <purple>@BambeeHR</>"
     },
     "data": [
       "          <orange>{{name}}</><white> / </><green>{{handle}}</>",
